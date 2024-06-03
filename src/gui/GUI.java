@@ -1,5 +1,5 @@
 /*
-* @authour Sean Manamela
+* @authour Sean
 * This Form takes in customer details and saves them in the database
 * Date-13 September 2023
 *
